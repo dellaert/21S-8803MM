@@ -19,15 +19,14 @@ Lectures for the class will be delivered **online, synchronously** (i.e., at the
 
 ### In-class Work
 * In-class polls: we want people to stay with the class, synchronously. While we understand some circumstances will cause you to miss a few classes here and there, we are conscious that the availability of recorded lectures might make you fall behind. To that end, we will have in class polls, administered through canvas, that will allow us to get real-time feedback on how well you understand the concepts taught. These will be graded for feedback purposes only. However, your participation in these will determine your participation grade.
+
 ### Out-of-class Work
 There are several activities designed to achieve the learning outcomes above:
 * Reading and understanding research papers: We will sometimes assign papers to read, and mini-assignments associated with them to help you parse the relevant concepts from them.
-<!-- * Short lecture summaries: you will be required to write short summaries of various lecture concepts on a weekly basis. The goal is to keep students engaged and current, while also fostering reflection on topics as they are taught, rather than merely to prepare for exams. -->
 * Foundational assignments: there will be 4 assignments on foundational material, some of which  will have a substantial ROS (Robot Operating System) component.
 * Final project: the assignments are designed to build and get familiar with individual robot perception, planning, and manipulation skills. In a final project you will put these different skills together in a layered software architecture to build a fully integrated, operational MM system. The final design is to be demonstrated and reported in a conference style manuscript. You will work in teams.
-* Final exam: At the end of the course, there will be a final exam, but this will be a "take-home" style exam, with questions that are meant to encourage reflection and synthesis of ideas that have been presented in the course, rather than an exam to explicitly test specific concepts.
+
 ### Assessment
-* Short lecture summaries: Because the class will rely heavily on remote instruction, it would be difficult to evaluate class participation in terms of in-class participation. Instead, you will be required to write short summaries of various lecture concepts on a weekly basis. The goal is to keep students engaged and current, while also fostering reflection on topics as they are taught, rather than merely to prepare for exams.
 * Final exam: At the end of the course, there will be a final exam, but this will be a "take-home" style exam, with questions that are meant to encourage reflection and synthesis of ideas that have been presented in the course, rather than an exam to explicitly test specific concepts.
 
 ### Schedule
