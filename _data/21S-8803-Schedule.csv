@@ -1,6 +1,6 @@
 ﻿Week,Month,Date,Day,3630,Instructor,Topic,Reading,Projects,,Topics,,,
-1,Jan,14,Thu,,Seth,,-,,Intro,,,,
-1,Jan,19,Tue,,Seth,,-,,Configuration spaces,,,,
+1,Jan,14,Thu,,Seth,Introduction,-,,Intro,,,,
+1,Jan,19,Tue,,Seth,MOBILE,-,,Configuration spaces,,,,
 2,Jan,21,Thu,,Seth,,-,,Roadmaps/visibility,,,,
 2,Jan,26,Tue,,Frank,,-,,Wheeled Vehicles,,,,
 3,Jan,28,Thu,,Seth,,-,,SLAM,,L&P,,
@@ -8,7 +8,7 @@
 4,Feb,4,Thu,,,,-,,MP: plane for base,,,,
 4,Feb,9,Tue,,Frank,,-,,Trajectory Optimization,,,,
 5,Feb,11,Thu,,Seth,,-,,Localization,,,,
-5,Feb,16,Tue,,Frank,,-,1 due - 2 out,,,Ye Zhao guest lecture,,
+5,Feb,16,Tue,,Frank,MANIPULATION,-,1 due - 2 out,,,Ye Zhao guest lecture,,
 6,Feb,18,Thu,,Frank,,-,,Visual servoing,,,,
 6,Feb,23,Tue,,Seth,,-,,Force Control,,http://www.neil.dantam.name/,,
 7,Feb,25,Thu,,Seth,,-,2 due - 3 out,Arm Kinematics (F&I),,http://people.csail.mit.edu/tlp/IJRRBel.html,,
@@ -19,7 +19,7 @@
 9,Mar,16,Tue,,Seth,Mini-Break,-,,CHOMP,,,0,-2
 10,Mar,18,Thu,,Frank,,-,,GPMP,,,,
 10,Mar,23,Tue,,Seth,,-,fp out,,Trajectory optimization,,,
-11,Mar,25,Thu,,,,-,,NAMO,,,,
+11,Mar,25,Thu,,,MOBILE MANIPULATION,-,,NAMO,,,,
 11,Mar,30,Tue,,,,-,,Walking,Applications:,True MM,Robot,Source
 12,Apr,1,Thu,,,,-,,Classical Planning,Opening a door,y,,
 12,Apr,6,Tue,,,,-,,Task and Motion Planning,Picking fruit,,,
