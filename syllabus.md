@@ -9,26 +9,27 @@ title: Syllabus
 The desired learning outcome is that, given a mobile manipulation application and a hardware platform, the students that have taken the class will be able to build a software architecture that, when executed on the hardware, constitutes a working prototype for the desired application.
 
 ### Prerequisites
-This is a graduate class with a cross-listed undergraduate section. For undergrads there is a 3630 pre-requisite. While there are no pre-requisites for graduate students, we will go rather quickly over basic concepts, and you will have to pick up the slack on your own time if you don’t have the background, e.g., by studying Peter Corke’s excellent book (which FD used in 3630). Good programming and math skills, esp. linear algebra, are essential.
+There are no formal pre-requisites for the class.  We will go rather quickly over basic concepts, and you will have to pick up the slack on your own time if you don’t have the background (references will be provided to appropriate background material for various topics). Good programming and math skills, esp. linear algebra, are essential.
 
 ### Text
 We will often be referring to papers rather than books. However, please see the following [list of books](books.html), many of which are available online.
 
-### Structure and Sequence of Class Activities
-There will be a mix of conventional lectures, in-class presentations of research papers by students, and reviewing activities related to the final project (see below).
+### Lecture Delivery Format
+Lectures for the class will be delivered online, synchronously (i.e., at the scheduled lecture times). These online sessions will be recorded and made available for later viewing.
 
 ### Out-of-class Work
 There are several activities designed to achieve the learning outcomes above:
-* Reading and understanding research papers: I will assign papers to read, and mini assignments associated with them to help you parse the relevant concepts from them.
+* Reading and understanding research papers: We will assign papers to read, and mini-assignments associated with them to help you parse the relevant concepts from them.
 * Foundational assignments: there will be 4 assignments on foundational material, some of which  will have a substantial ROS (Robot Operating System) component.
 * Final project: the assignments are designed to build and get familiar with individual robot perception, planning, and manipulation skills. In a final project you will put these different skills together in a layered software architecture to build a fully integrated, operational MM system. The final design is to be demonstrated and reported in a conference style manuscript. You will work in teams.
-* Assessment: At the end of the course, there will be a final exam, but you will be given the questions in advance, some time after each lecture. This will allow you to reflect on the lectures on a regular basis, as well as thinking back on the entire course near final exam time.
+* Assessment: At the end of the course, there will be a final exam, but this will be a "take-home" style exam, with questions that are meant to encourage reflection and synthesis of ideas that have been presented in the course, rather than an exam to explicitly test specific concepts.
+* Short lecture summaries: Because the class will rely heavily on remote instruction, it would be difficult to evaluate class participation in terms of in-class participation. Instead, you will be required to write short summaries of various lecture concepts on a weekly basis. The goal is to keep students engaged and current, while also fostering reflection on topics as they are taught, rather than merely to prepare for exams.
 
 ### Schedule
 A detailed schedule, subject to change, can be found on the [schedule page](schedule.html).
 
 ### Grading
-* Class Participation and in-class presentations: 10%
+* Lecture Summaries: 10%
 * [Projects](projects.md): 50%
 * Final Project: 30%
 * Final Exam: 10%
@@ -56,4 +57,4 @@ You should not view or edit anyone else's code. You should not post code to Piaz
 Unless group work is explicitly part of the class work, collaboration on individual assignments is encouraged at the "white board interaction" level. That is, share ideas and technical conversation, but write your own code. Students are expected to abide by the Georgia Tech Honor Code. Honest and ethical behavior is expected at all times. All incidents of suspected dishonesty will be reported to and handled by the office of student affairs.
 
 ### Acknowledgements
-The materials from this class rely significantly on slides prepared by other instructors. Each slide set and assignment contains acknowledgements. Feel free to use these slides for academic or research purposes, but please maintain all acknowledgements.
+The materials from this class occasionally rely on materials prepared by other instructors. In these cases, slide sets and assignments contains acknowledgements. Feel free to use class materials for academic or research purposes, but please maintain all acknowledgements.
