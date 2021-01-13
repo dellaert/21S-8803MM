@@ -13,7 +13,7 @@ title: Resources
 * [Visual Servoing notes](Readings/cs8803-sp-2020.pdf)
 * [Geometry COLAB](https://colab.research.google.com/drive/1xowV6M7ZKbBznPbIMX8vdjRJdPX6_qF6)
 * [Kinematics notes](Readings/manipulator-kinematics.pdf)
-* [Kinematis slides](Readings/Kinematics_Jacobians.pdf)
+* [Kinematics slides](Readings/Kinematics_Jacobians.pdf)
 * [Frank's Slides w RNEA](Readings/8803-Dynamics.pdf)
 * [Frank's Notes on Contact](Readings/MM8803-contacts.pdf)
 * [Frank's Notes on SE(3) and Adjoint Map](Readings/3D-Adjoints-note.pdf) -->
