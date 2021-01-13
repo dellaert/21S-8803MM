@@ -42,18 +42,16 @@ A detailed schedule, subject to change, can be found on the [schedule page](sche
 Late policy for this course will be 12% per day late, pro-rated per hour.
 
 ### Learning Accommodations
-If needed, we will make classroom accommodations for students with documented disabilities. These accommodations must be arranged in advance and in accordance with the ADAPTS office (www.adapts.gatech.edu).
+If needed, we will make classroom accommodations for students with documented disabilities. These accommodations must be arranged in advance and in accordance with the [ADAPTS office](https://www.adapts.gatech.edu).
 
 ### Important Links:
 * [Piazza](https://piazza.com/class/kjt82d7570m2e7). This should be your first stop for questions and announcements.
 * [canvas.gatech.edu](https://canvas.gatech.edu/) will be used to hand in assignments.
 
 ### Contact Info and Office Hours:
-If possible, please use Piazza to ask questions and seek clarifications before emailing the instructor or staff.
-* Sergio Aguilera
-
+If possible, please use Piazza to ask questions and seek clarifications before emailing the instructor or staff. Office hours are by appointment only, and can be done by email the instructors using their Georgia Tech email addresses (autocomplete in Outlook).
 ### Academic Integrity
-Academic dishonesty will not be tolerated. This includes cheating, lying about course matters, plagiarism, or helping others commit a violation of the Honor Code. Plagiarism includes reproducing the words of others without both the use of quotation marks and citation. Students are reminded of the obligations and expectations associated with the Georgia Tech Academic Honor Code and Student Code of Conduct, available online at www.honor.gatech.edu. For quizzes, no supporting materials are allowed (notes, calculators, phones, etc).
+Academic dishonesty will not be tolerated. This includes cheating, lying about course matters, plagiarism, or helping others commit a violation of the Honor Code. Plagiarism includes reproducing the words of others without both the use of quotation marks and citation. Students are reminded of the obligations and expectations associated with the Georgia Tech Academic Honor Code and Student Code of Conduct, available [online](https://www.honor.gatech.edu). For quizzes, no supporting materials are allowed (notes, calculators, phones, etc).
 
 You are expected to implement the core components of each project on your own, but the extra credit opportunities often build on third party data sets or code. That's fine. Feel free to include results built on other software, as long as you are clear in your hand-in that it is not your own work.
 
