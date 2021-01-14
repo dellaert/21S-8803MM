@@ -22,7 +22,7 @@ Lectures for the class will be delivered **online, synchronously** (i.e., at the
 
 ### Out-of-class Work
 There are several activities designed to achieve the learning outcomes above:
-* Reading and understanding research papers: We will sometimes assign papers to read, and mini-assignments associated with them to help you parse the relevant concepts from them.
+* Reading and understanding research papers: we will sometimes assign papers to read before class.
 * Foundational assignments: there will be 4 assignments on foundational material, some of which  will have a substantial ROS (Robot Operating System) component.
 * Final project: the assignments are designed to build and get familiar with individual robot perception, planning, and manipulation skills. In a final project you will put these different skills together in a layered software architecture to build a fully integrated, operational MM system. The final design is to be demonstrated and reported in a conference style manuscript. You will work in teams.
 
