@@ -9,16 +9,16 @@
 4,Feb,9,Tue,,Frank,,Visual Odometry,L8 Visual Odometry,,Trajectory Optimization,,,,
 5,Feb,11,Thu,,Seth,,Factor Graphs,L9 Factor Graphs,,Localization,,,,
 5,Feb,16,Tue,,Frank,,Flavors of SLAM,L10 Flavors of SLAM,1 due - 2 out,,,Ye Zhao guest lecture,,
-6,Feb,18,Thu,,Frank,MANIPULATION,"SO(2), SE(2), SO(3), and SE(3)",L11 Special Euclidean Group,,Visual servoing,,,,
-6,Feb,23,Tue,,Seth,,"SO(2), SE(2), SO(3), and SE(3)",-,,Force Control,,http://www.neil.dantam.name/,,
+6,Feb,18,Thu,,Frank,MANIPULATION,Transformations of Space,L11 Special Euclidean Group,,Visual servoing,,,,
+6,Feb,23,Tue,,Seth,,Lie Groups,-,,Force Control,,http://www.neil.dantam.name/,,
 7,Feb,25,Thu,,Frank,,FW Kinematics & Jacobians,L12 Forward Kinematics,2 due - 3 out,Arm Kinematics (F&I),,http://people.csail.mit.edu/tlp/IJRRBel.html,,
 7,Mar,2,Tue,,Frank,,FW Kinematics & Jacobians,-,,Grasping,,,,
-8,Mar,4,Thu,,Frank,,Product of Exponentials,-,,MP: Non-euclidean,,,,
-8,Mar,9,Tue,,Seth,,Lagrangian Dynamics,-,3 due - 4 out,MP: PRM,,Seth:,0,14
-9,Mar,11,Thu,,Seth,,Recursive Newton-Euler,-,,"MP: RRT, RRT*",,Frank:,0,13
-9,Mar,16,Tue,,Seth,Mini-Break,Kinematic Grasps,-,,CHOMP,,,0,-1
-10,Mar,18,Thu,,Frank,,,-,,GPMP,,,,
-10,Mar,23,Tue,,Seth,,,-,4 due - fp out,,Trajectory optimization,,,
+8,Mar,4,Thu,,Frank,,FW Kinematics & Jacobians,-,,MP: Non-euclidean,,,,
+8,Mar,9,Tue,,Seth,,Product of Exponentials,L13 Product of Exponentials,3 due - 4 out,MP: PRM,,Seth:,0,14
+9,Mar,11,Thu,,Seth,,Lagrangian Dynamics,-,,"MP: RRT, RRT*",,Frank:,0,13
+9,Mar,16,Tue,,Seth,Mini-Break,,-,,CHOMP,,,0,-1
+10,Mar,18,Thu,,Frank,,Recursive Newton-Euler,-,,GPMP,,,,
+10,Mar,23,Tue,,Seth,,Kinematic Grasps,-,4 due - fp out,,Trajectory optimization,,,
 11,Mar,25,Thu,,,MOBILE MANIPULATION,,-,,NAMO,,,,
 11,Mar,30,Tue,,,,,-,proposals due,Walking,Applications:,True MM,Robot,Source
 12,Apr,1,Thu,,,,,-,,Classical Planning,Opening a door,y,,
