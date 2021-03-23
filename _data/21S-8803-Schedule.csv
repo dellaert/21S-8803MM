@@ -14,15 +14,15 @@
 7,Feb,25,Thu,,Frank,,FW Kinematics & Jacobians,L12 Forward Kinematics,2 due - 3 out,Arm Kinematics (F&I),,http://people.csail.mit.edu/tlp/IJRRBel.html,,
 7,Mar,2,Tue,,Frank,,FW Kinematics & Jacobians,-,,Grasping,,,,
 8,Mar,4,Thu,,Frank,,FW Kinematics & Jacobians,-,,MP: Non-euclidean,,,,
-8,Mar,9,Tue,,Seth,,Product of Exponentials,L13 Product of Exponentials,3 due - 4 out,MP: PRM,,Seth:,0,14
+8,Mar,9,Tue,,Seth,,Product of Exponentials,L15 PoE,,MP: PRM,,Seth:,0,14
 9,Mar,11,Thu,,Seth,,Lagrangian Dynamics,-,,"MP: RRT, RRT*",,Frank:,0,13
-9,Mar,16,Tue,,Seth,Mini-Break,,-,,CHOMP,,,0,-1
-10,Mar,18,Thu,,Frank,,Recursive Newton-Euler,-,,GPMP,,,,
-10,Mar,23,Tue,,Seth,,Kinematic Grasps,-,4 due - fp out,,Trajectory optimization,,,
-11,Mar,25,Thu,,,MOBILE MANIPULATION,,-,,NAMO,,,,
-11,Mar,30,Tue,,,,,-,proposals due,Walking,Applications:,True MM,Robot,Source
-12,Apr,1,Thu,,,,,-,,Classical Planning,Opening a door,y,,
-12,Apr,6,Tue,,,,,-,,Task and Motion Planning,Picking fruit,,,
+9,Mar,16,Tue,,Seth,Mini-Break,,-,3 due - 4 out,CHOMP,,,0,-1
+10,Mar,18,Thu,,Frank,,Recursive Newton-Euler,L18 Kinodynamics,,GPMP,,,,
+10,Mar,23,Tue,,Seth,,Kinematic Grasps,-,fp out,,Trajectory optimization,,,
+11,Mar,25,Thu,,,MOBILE MANIPULATION,Null-space,-,,NAMO,,,,
+11,Mar,30,Tue,,,,Motion Planning,-,,Walking,Applications:,True MM,Robot,Source
+12,Apr,1,Thu,,,,Whole-body Control,-,4 due,Classical Planning,Opening a door,y,,
+12,Apr,6,Tue,,,,,-,proposals due,Task and Motion Planning,Picking fruit,,,
 13,Apr,8,Thu,,Seth,,,-,,HPN ?,Robotic forklift,,,
 13,Apr,13,Tue,,Seth,,,-,,,BD Arms on wheels,y,,
 14,Apr,15,Thu,,Frank,,,-,,,Robot waiter,y,Krang,Munzir Zafar
