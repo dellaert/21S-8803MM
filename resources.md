@@ -8,6 +8,7 @@ title: Resources
 * [Pytorch](https://pytorch.org/)
 * [AGITR](https://cse.sc.edu/~jokane/agitr/) J. O'Kane, A Gentle Introduction to ROS. This book is based on ROS Indigo and uses C++ for its source code examples.
 
+* [Frank's Notes on Contact](Readings/MM8803-contacts.pdf)
 <!-- ## Notes by FD and SH: Should be communicated via schedule !
 
 * [Visual Servoing notes](Readings/cs8803-sp-2020.pdf)
