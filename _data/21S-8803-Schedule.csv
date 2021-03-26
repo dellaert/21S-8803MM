@@ -19,7 +19,7 @@
 9,Mar,16,Tue,,Seth,Mini-Break,,-,3 due - 4 out,CHOMP,,,0,-1
 10,Mar,18,Thu,,Frank,,Recursive Newton-Euler,L18 Kinodynamics,,GPMP,,,,
 10,Mar,23,Tue,,Seth,,Kinematic Grasps,L19 Contacts,fp out,,Trajectory optimization,,,
-11,Mar,25,Thu,,,MOBILE MANIPULATION,Null-space,L20 NullSpace,,NAMO,,,,
+11,Mar,25,Thu,,,MOBILE MANIPULATION,Null-space,-,,NAMO,,,,
 11,Mar,30,Tue,,,,Motion Planning,-,,Walking,Applications:,True MM,Robot,Source
 12,Apr,1,Thu,,,,Whole-body Control,-,4 due,Classical Planning,Opening a door,y,,
 12,Apr,6,Tue,,,,,-,proposals due,Task and Motion Planning,Picking fruit,,,
