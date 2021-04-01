@@ -9,6 +9,7 @@ title: Resources
 * [AGITR](https://cse.sc.edu/~jokane/agitr/) J. O'Kane, A Gentle Introduction to ROS. This book is based on ROS Indigo and uses C++ for its source code examples.
 
 * [Frank's Notes on Contact](Readings/MM8803-contacts.pdf)
+* [Whole Body Motion Planning](Readings/Whole_body_Motion_Planning.pdf)
 
 <!-- ## Notes by FD and SH: Should be communicated via schedule !
 
