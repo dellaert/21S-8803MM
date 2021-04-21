@@ -1,33 +1,34 @@
 ﻿Week,Month,Date,Day,3630,Instructor,Module,Topic,Reading,Projects,,Topics,,,
 1,Jan,14,Thu,,Seth,,Introduction,-,,Intro,,,,
-1,Jan,19,Tue,,Seth,MOBILE,Configuration Spaces,L2 configuration space,,Configuration spaces,,,,
+2,Jan,19,Tue,,Seth,MOBILE,Configuration Spaces,L2 configuration space,,Configuration spaces,,,,
 2,Jan,21,Thu,,Seth,,Planning in SE(2),L3 Path Planning in R2,,Roadmaps/visibility,,,,
-2,Jan,26,Tue,,Seth,,Potential Fields,L4 Path Planning in R2 part 2,,Wheeled Vehicles,,,,
+3,Jan,26,Tue,,Seth,,Potential Fields,L4 Path Planning in R2 part 2,,Wheeled Vehicles,,,,
 3,Jan,28,Thu,,Frank,,Simulating Discrete Agents,L5 Simulating Discrete Agents,,SLAM,,L&P,,
-3,Feb,2,Tue,,Frank,,Inference in Graphical Models,L6 Inference in Graphical Models,,Visual Odometry,,,,
+4,Feb,2,Tue,,Frank,,Inference in Graphical Models,L6 Inference in Graphical Models,,Visual Odometry,,,,
 4,Feb,4,Thu,,Seth,,Visual Servoing,L7 Visual Servo Control,,MP: plane for base,,,,
-4,Feb,9,Tue,,Frank,,Visual Odometry,L8 Visual Odometry,,Trajectory Optimization,,,,
+5,Feb,9,Tue,,Frank,,Visual Odometry,L8 Visual Odometry,,Trajectory Optimization,,,,
 5,Feb,11,Thu,,Seth,,Factor Graphs,L9 Factor Graphs,,Localization,,,,
-5,Feb,16,Tue,,Frank,,Flavors of SLAM,L10 Flavors of SLAM,1 due - 2 out,,,Ye Zhao guest lecture,,
+6,Feb,16,Tue,,Frank,,Flavors of SLAM,L10 Flavors of SLAM,1 due - 2 out,,,Ye Zhao guest lecture,,
 6,Feb,18,Thu,,Frank,MANIPULATION,Transformations of Space,L11 Special Euclidean Group,,Visual servoing,,,,
-6,Feb,23,Tue,,Seth,,Lie Groups,-,,Force Control,,http://www.neil.dantam.name/,,
+7,Feb,23,Tue,,Seth,,Lie Groups,-,,Force Control,,http://www.neil.dantam.name/,,
 7,Feb,25,Thu,,Frank,,FW Kinematics & Jacobians,L12 Forward Kinematics,2 due - 3 out,Arm Kinematics (F&I),,http://people.csail.mit.edu/tlp/IJRRBel.html,,
-7,Mar,2,Tue,,Frank,,FW Kinematics & Jacobians,-,,Grasping,,,,
+8,Mar,2,Tue,,Frank,,FW Kinematics & Jacobians,-,,Grasping,,,,
 8,Mar,4,Thu,,Frank,,FW Kinematics & Jacobians,-,,MP: Non-euclidean,,,,
-8,Mar,9,Tue,,Seth,,Product of Exponentials,L15 PoE,,MP: PRM,,Seth:,0,14
-9,Mar,11,Thu,,Seth,,Lagrangian Dynamics,-,,"MP: RRT, RRT*",,Frank:,0,13
-9,Mar,16,Tue,,Seth,Mini-Break,,-,3 due - 4 out,CHOMP,,,0,-1
+9,Mar,9,Tue,,Seth,,Product of Exponentials,L15 PoE,,MP: PRM,,Seth:,0,14
+9,Mar,11,Thu,,Seth,,Lagrangian Dynamics,-,,"MP: RRT, RRT*",,Frank:,0,12
+10,Mar,16,Tue,,Seth,Mini-Break,,-,3 due - 4 out,CHOMP,,,0,-2
 10,Mar,18,Thu,,Frank,,Recursive Newton-Euler,L18 Kinodynamics,,GPMP,,,,
-10,Mar,23,Tue,,Seth,,Kinematic Grasps,L19 Contacts,fp out,,Trajectory optimization,,,
+11,Mar,23,Tue,,Seth,,Kinematic Grasps,L19 Contacts,fp out,,Trajectory optimization,,,
 11,Mar,25,Thu,,,MOBILE MANIPULATION,Null-space,L20 NullSpace,,NAMO,,,,
-11,Mar,30,Tue,,,,Motion Planning,-,,Walking,Applications:,True MM,Robot,Source
+12,Mar,30,Tue,,,,Motion Planning,-,,Walking,Applications:,True MM,Robot,Source
 12,Apr,1,Thu,,,,Whole-body Control,-,4 due,Classical Planning,Opening a door,y,,
-12,Apr,6,Tue,,,,Impedance,-,,Task and Motion Planning,Picking fruit,,,
+13,Apr,6,Tue,,,,Impedance,-,,Task and Motion Planning,Picking fruit,,,
 13,Apr,8,Thu,,Seth,,TAMP I,-,proposals due,HPN ?,Robotic forklift,,,
-13,Apr,13,Tue,,Seth,,TAMP II,-,,,BD Arms on wheels,y,,
-14,Apr,15,Thu,,Frank,,Grab-bag,-,,,Robot waiter,y,Krang,Munzir Zafar
-14,Apr,20,Tue,,Frank,,Presentations,-,,,Shared manipulation,y,,
+14,Apr,13,Tue,,Seth,,TAMP II,-,,,BD Arms on wheels,y,,
+14,Apr,15,Thu,,Frank,,LQR (classical view),-,,,Robot waiter,y,Krang,Munzir Zafar
+15,Apr,20,Tue,,Frank,,LQR (factor graphs),-,,,Shared manipulation,y,,
 15,Apr,22,Thu,,Seth,,Presentations,-,,,Go get a beer,,,
-15,Apr,27,Tue,,Frank,,Presentations,-,,,DRC,,,
-16,,,Thu,,Frank,,,-,final project due,,,,,
-,,,,,,,,-,,,,,,
+16,Apr,27,Tue,,Frank,,Presentations,-,,,DRC,,,
+16,Apr,29,Thu,,,,,-,final project due,,,,,
+16,Apr,30,Fri,,,,,-,Final exam out,,,,,
+17,May,5,Wed,,,,,,Final exam due,,,,,
